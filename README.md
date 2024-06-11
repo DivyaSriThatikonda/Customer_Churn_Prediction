@@ -80,4 +80,4 @@ To run the project in your Jupyter Notebook or Google Colab, follow these steps:
 -**Descriptive Statistics**: Used to summarize and analyze the dataset, including measures such as mean, median, standard deviation, and correlation coefficients.
 
 **Results**
-The RandomForest Classifier model achieved an accuracy of 80% in predicting customer churn. This indicates that the model can correctly identify 80% of the customers who are likely to churn, enabling the company to take proactive measures to retain these customers.
+The RandomForest Classifier model achieved an accuracy of 80% in predicting customer churn. This indicates that the model can correctly identify 80% of the customers who are likely to churn and not to churn, enabling the company to take proactive measures to retain these customers.
